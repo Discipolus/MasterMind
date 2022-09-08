@@ -1,0 +1,9 @@
+﻿Sizes
+Playbutton: 20x20
+hintpanel: 8x8
+Abstand vertikal zw. Playbuttons: 10
+Abstand horizontal zw. Playbuttons: 
+gB_Spiel: x: 4*20 (buttons) + 3*10 (Lücken) + 2*20 (Seiten) = 
+
+
+Locations

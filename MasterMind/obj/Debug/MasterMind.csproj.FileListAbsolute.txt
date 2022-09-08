@@ -1,0 +1,11 @@
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.AssemblyReference.cache
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\Pa00522\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.form_MasterMind.resources
